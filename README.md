@@ -57,4 +57,5 @@ I’ll be adding:
 ![Profile Views](https://komarev.com/ghpvc/?username=ceci-romero&color=blue&style=flat)
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/ceci-romero/ceci-romero/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ceci-romero/ceci-romero/output/github-contribution-grid-snake.svg)
+
