@@ -9,11 +9,15 @@
 </div>
 
 ---
-### About Me 🔎
+### 🔎 About Me 
 I'm a passionate **Software Engineer** with current interests in  
 **🖥️ Backend Systems, 📈 Data Engineering, and ☁️ Cloud Computing**.
 
 I also love exploring **🛜 IoT, 🧬 Bioinformatics, and 🌎 Green IT** as side areas of curiosity.
+
+### 📚 Education
+- M.S Information Technology and Management from UT Dallas (August 2025 - May 2027) 
+- B.S. Software Engineering from UT Arlington (August 2021 - December 2024)
 
 ---
 
