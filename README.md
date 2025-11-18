@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Ceci! 👋
 
-<!--
-**ceci-romero/ceci-romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** with current interests in  
+**Backend Systems, Data Engineering, and Cloud Computing**.
 
-Here are some ideas to get you started:
+I also love exploring **IoT, Bioinformatics, and distributed systems** as side areas of curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+Python · Java · JavaScript · TypeScript · C · SQL · NoSQL · HTML · CSS · R
+
+### **Frameworks**
+Spring Boot · Flask · ReactJS · Node.js · Express.js · Django
+
+### **Developer Tools & Technologies**
+Gradle · Eclipse · VS Code · Bluetooth Protocols
+
+### **Databases & Cloud**
+MongoDB · Firebase · SQLite · Kubernetes
+
+### **Operating Systems**
+Linux · Windows · macOS
+
+### **Collaboration & Methodologies**
+GitHub · Jira · Bitbucket · Confluence · Agile Methodology
+
+### **Certifications**
+AWS Certified Cloud Practitioner ☁️
+
+---
+
+## 🌱 Currently Working On
+- Uploading portfolio projects in software engineering  
+- Building notes & study guides for **CompTIA Security+**  
+- Expanding my cloud skills & exploring data engineering tools  
+
+---
+
+## 🚀 What’s Next
+I’ll be adding:
+- Backend + cloud projects  
+- Data engineering and API projects  
+- Notes, diagrams, and mini-tutorials from what I learn along the way  
+---
+
+## 📊 GitHub Analytics
+
+![Ceci's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceci-romero&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceci-romero&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ceci-romero&theme=transparent)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ceci-romero&color=blue&style=flat)
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/ceci-romero/ceci-romero/blob/output/github-contribution-grid-snake.svg)
