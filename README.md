@@ -110,14 +110,14 @@ I’ll be adding:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ceci-romero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api?username=ceci-romero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400&v=2" 
     alt="Ceci's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceci-romero&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceci-romero&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&cache_seconds=86400&v=2" 
     alt="Top Languages"
   />
 </p>
