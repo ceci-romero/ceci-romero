@@ -107,7 +107,7 @@ I’ll be adding:
 > ⚙️ I'm currently revamping my GitHub — adding new projects, notes, and documentation.  
 > More updates coming soon! ✨
 
-
+<!--
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ceci-romero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400&v=2" 
@@ -121,7 +121,7 @@ I’ll be adding:
     alt="Top Languages"
   />
 </p>
-
+-->
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=ceci-romero&theme=tokyonight&hide_border=true&background=transparent" 
