@@ -11,7 +11,7 @@
 
 ### 🔎 About Me 
 I'm a passionate **Software Engineer** with current interests in  
-**🖥️ Backend Systems, 📈 Data Engineering, and ☁️ Cloud Computing**.
+**🖥️ Backend Systems, 🤖 AI and ☁️ Cloud Computing**.
 
 ---
 
